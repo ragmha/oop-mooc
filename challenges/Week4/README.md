@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[9/14]`
+## PROGRESS 🚀 `[10/14]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -18,7 +18,7 @@
 | [Exercise 76: Menu](./Exercise76/Menu.java) | 🔥 |
 | [Exercise 77: Lyyra-card](./Exercise77/LyyraCard.java) | 🔥 |
 | [Exercise 78: Clock using a counter](./Exercise78/BoundedCounter.java) | 🔥 |
-| [Exercise 79: NumberStatistics](./Exercise79/.java) | 🚧 |
+| [Exercise 79: NumberStatistics](./Exercise79/NumberStatistics.java) | 🔥 |
 | [Exercise 80: Rolling the dice](./Exercise80/.java) | 🚧 |
 | [Exercise 81: Password randomizer](./Exercise81/.java) | 🚧 |
 | [Exercise 82: Lottery](./Exercise82/.java) | 🚧 |
