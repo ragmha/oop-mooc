@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[11/14]`
+## PROGRESS 🚀 `[12/14]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -20,6 +20,6 @@
 | [Exercise 78: Clock using a counter](./Exercise78/BoundedCounter.java) | 🔥 |
 | [Exercise 79: NumberStatistics](./Exercise79/NumberStatistics.java) | 🔥 |
 | [Exercise 80: Rolling the dice](./Exercise80/Dice.java) | 🔥 |
-| [Exercise 81: Password randomizer](./Exercise81/.java) | 🚧 |
+| [Exercise 81: Password randomizer](./Exercise81/PasswordRandomizer.java) | 🔥 |
 | [Exercise 82: Lottery](./Exercise82/.java) | 🚧 |
 | [Exercise 83: Game logic for Hangman](./Exercise83/.java) | 🚧 |
