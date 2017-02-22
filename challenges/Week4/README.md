@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[13/14]`
+## PROGRESS 🚀 `[14/14]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -22,4 +22,4 @@
 | [Exercise 80: Rolling the dice](./Exercise80/Dice.java) | 🔥 |
 | [Exercise 81: Password randomizer](./Exercise81/PasswordRandomizer.java) | 🔥 |
 | [Exercise 82: Lottery](./Exercise82/LotteryNumbers.java) | 🔥 |
-| [Exercise 83: Game logic for Hangman](./Exercise83/.java) | 🚧 |
+| [Exercise 83: Game logic for Hangman](./Exercise83/HangmanLogic.java) | 🔥 |
