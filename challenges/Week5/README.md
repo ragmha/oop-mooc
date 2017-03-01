@@ -5,11 +5,11 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[14/14]`
+## PROGRESS 🚀 `[1/10]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
-| [Exercise 84: Overloaded counter](./Exercise84/) | 🚧 |
+| [Exercise 84: Overloaded counter](./Exercise84/Counter.java) | 🔥 |
 | [Exercise 85: Reformatory](./Exercise85/) | 🚧 |
 | [Exercise 86: Lyyra card and Cash Register](./Exercise86/) | 🚧 |
 | [Exercise 87: Apartment comparison](./Exercise87/) | 🚧 |
