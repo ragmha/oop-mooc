@@ -16,7 +16,7 @@
 | [Week 3](./challenges/Week3) | <li>Methods</li><br><li>The ArrayList data structure</li> | <li>🔥 🔥 🔥 🔥 🔥 🔥 </li> <li>🔥 🔥 🔥 🔥 🔥 🔥 </li> <li>🔥 🔥 🔥 🔥 🔥 🔥 </li> <li>🔥 🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 🔥 </li> | ~~02-02-2017~~ | ~~09-02-2017~~ |
 | [Week 4](./challenges/Week4) | <li>Basics of objects</li> | <li>🔥 🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 </li> | ~~09-02-2017~~ | ~~16-02-2017~~ |
 | [Week 5](./challenges/Week5) | <li>More on objects</li> | <li>🔥 🔥 🔥 🔥 🔥</li><li>🔥 🔥 🔥 🔥 🔥</li> | ~~16-02-2017~~ | ~~23-02-2017~~ |
-| Week 6 | <li>Tables</li><br><li>Sorting</li><br><li>Searching</li> | <li>🚧 🚧 🚧 🚧 🚧 🚧 </li><li>🚧 🚧 🚧 🚧 🚧 🚧 🚧</li> | 23-02-2017 | 02-03-2017 |
+| [Week 6](./challenges/Week6) | <li>Tables</li><br><li>Sorting</li><br><li>Searching</li> | <li>🚧 🚧 🚧 🚧 🚧 🚧 </li><li>🚧 🚧 🚧 🚧 🚧 🚧 🚧</li> | 23-02-2017 | 02-03-2017 |
 
 ## PART 2 :coffee: `[-/59]`
 | Material | Topics | Exercises | Started | Deadline |
