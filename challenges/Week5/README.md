@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[7/10]`
+## PROGRESS 🚀 `[8/10]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -16,6 +16,6 @@
 | [Exercise 88: Students](./Exercise88/Students.java) | 🔥 |
 | [Exercise 89: Clock object](./Exercise89/Clock.java) | 🔥 |
 | [Exercise 90: Team and Players](./Exercise90/Team.java) | 🔥 |
-| [Exercise 91: Extending MyDate](./Exercise91/) | 🚧 |
+| [Exercise 91: Extending MyDate](./Exercise91/MyDate.java) | 🔥 |
 | [Exercise 92: Difference of two dates](./Exercise92/) | 🚧 |
 | [Exercise 93: Person extended](./Exercise93/) | 🚧 |
