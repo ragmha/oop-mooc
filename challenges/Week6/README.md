@@ -5,11 +5,11 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[-/13]`
+## PROGRESS 🚀 `[1/13]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
-| [Exercise 94: PhoneBook](./Excercise94/)  | 🚧 |
+| [Exercise 94: PhoneBook](./Excercise94/PhoneBook.java)  | 🔥 |
 | [Exercise 95: Money](./Excercise95/) | 🚧 |
 | [Exercise 96: Sum of the array](./Excercise96/) | 🚧 |
 | [Exercise 97: Elegant printing of an array](./Excercise97/) | 🚧 |
