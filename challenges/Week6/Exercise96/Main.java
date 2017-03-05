@@ -2,11 +2,9 @@
 public class Main {
 
     public static int sum(int[] array) {
-        int result = 0;
-        for(int i = 0; i < array.length; i++) {
-            result += array[i];
-        }
-        return result;
+        int sum = 0;
+        for (int i : array) sum += i;
+        return sum;
     }
 
     public static void main(String[] args) {
