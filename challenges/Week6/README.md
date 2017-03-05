@@ -5,13 +5,13 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[2/13]`
+## PROGRESS 🚀 `[3/13]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
 | [Exercise 94: PhoneBook](./Exercise94/PhoneBook.java)  | 🔥 |
 | [Exercise 95: Money](./Exercise95/Money.java) | 🔥 |
-| [Exercise 96: Sum of the array](./Exercise96/) | 🚧 |
+| [Exercise 96: Sum of the array](./Exercise96/Main.java) | 🔥 |
 | [Exercise 97: Elegant printing of an array](./Exercise97/) | 🚧 |
 | [Exercise 98: Reversing and copying of an array](./Exercise98/) | 🚧 |
 | [Exercise 99: Array to stars](./Exercise99/) | 🚧 |
