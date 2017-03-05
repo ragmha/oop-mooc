@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[4/13]`
+## PROGRESS 🚀 `[5/13]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -13,7 +13,7 @@
 | [Exercise 95: Money](./Exercise95/Money.java) | 🔥 |
 | [Exercise 96: Sum of the array](./Exercise96/Main.java) | 🔥 |
 | [Exercise 97: Elegant printing of an array](./Exercise97/Main.java) | 🔥 |
-| [Exercise 98: Reversing and copying of an array](./Exercise98/) | 🚧 |
+| [Exercise 98: Reversing and copying of an array](./Exercise98/Main.java) | 🔥 |
 | [Exercise 99: Array to stars](./Exercise99/) | 🚧 |
 | [Exercise 100: Night sky](./Exercise100/) | 🚧 |
 | [Exercise 101: The library information system](./Exercise101/) | 🚧 |
