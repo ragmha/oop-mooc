@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[6/13]`
+## PROGRESS 🚀 `[7/13]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -15,7 +15,7 @@
 | [Exercise 97: Elegant printing of an array](./Exercise97/Main.java) | 🔥 |
 | [Exercise 98: Reversing and copying of an array](./Exercise98/Main.java) | 🔥 |
 | [Exercise 99: Array to stars](./Exercise99/Main.java) | 🔥 |
-| [Exercise 100: Night sky](./Exercise100/) | 🚧 |
+| [Exercise 100: Night sky](./Exercise100/NightSky.java) | 🔥 |
 | [Exercise 101: The library information system](./Exercise101/) | 🚧 |
 | [Exercise 102: Grade distribution](./Exercise102/) | 🚧 |
 | [Exercise 103: Birdwatchers database](./Exercise103/) | 🚧 |
