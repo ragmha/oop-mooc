@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[8/13]`
+## PROGRESS 🚀 `[9/13]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -17,7 +17,7 @@
 | [Exercise 99: Array to stars](./Exercise99/Main.java) | 🔥 |
 | [Exercise 100: Night sky](./Exercise100/NightSky.java) | 🔥 |
 | [Exercise 101: The library information system](./Exercise101/Library.java) | 🔥 |
-| [Exercise 102: Grade distribution](./Exercise102/) | 🚧 |
+| [Exercise 102: Grade distribution](./Exercise102/GradeDistribution.java) | 🔥 |
 | [Exercise 103: Birdwatchers database](./Exercise103/) | 🚧 |
 | [Exercise 104: Sorting](./Exercise104/) | 🚧 |
 | [Exercise 105: Guessing game](./Exercise105/) | 🚧 |
