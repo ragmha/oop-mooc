@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[9/13]`
+## PROGRESS 🚀 `[10/13]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -18,7 +18,7 @@
 | [Exercise 100: Night sky](./Exercise100/NightSky.java) | 🔥 |
 | [Exercise 101: The library information system](./Exercise101/Library.java) | 🔥 |
 | [Exercise 102: Grade distribution](./Exercise102/GradeDistribution.java) | 🔥 |
-| [Exercise 103: Birdwatchers database](./Exercise103/) | 🚧 |
+| [Exercise 103: Birdwatchers database](./Exercise103/BirdWatch.java) | 🔥 |
 | [Exercise 104: Sorting](./Exercise104/) | 🚧 |
 | [Exercise 105: Guessing game](./Exercise105/) | 🚧 |
 | [Exercise 106: Implementation of binary search](./Exercise106/) | 🚧 |
