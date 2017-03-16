@@ -8,7 +8,7 @@
 
 ## PROGRESS 🚀 `[105/165]`
 
-## PART 1 :coffee: `[105/106]`
+## PART 1 :coffee: `[106/106]`
 | Material  | Topics  | Exercises | Started | Deadline |
 | :------------- | :------------- | :------------- | :-------------| :-------------|
 | [Week 1](./challenges/Week1) | <li>User Input</li><br><li>Printing on screen</li><br><li>Conditional statements</li> | <li>🔥 🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 🔥 🔥 🔥 🔥 </li> <li>🔥 🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 🔥 🔥 🔥 🔥</li> | ~~19-01-2017~~ | ~~26-01-2017~~ |
@@ -16,7 +16,7 @@
 | [Week 3](./challenges/Week3) | <li>Methods</li><br><li>The ArrayList data structure</li> | <li>🔥 🔥 🔥 🔥 🔥 🔥 </li> <li>🔥 🔥 🔥 🔥 🔥 🔥 </li> <li>🔥 🔥 🔥 🔥 🔥 🔥 </li> <li>🔥 🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 🔥 </li> | ~~02-02-2017~~ | ~~09-02-2017~~ |
 | [Week 4](./challenges/Week4) | <li>Basics of objects</li> | <li>🔥 🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 </li> | ~~09-02-2017~~ | ~~16-02-2017~~ |
 | [Week 5](./challenges/Week5) | <li>More on objects</li> | <li>🔥 🔥 🔥 🔥 🔥</li><li>🔥 🔥 🔥 🔥 🔥</li> | ~~16-02-2017~~ | ~~23-02-2017~~ |
-| [Week 6](./challenges/Week6) | <li>Tables</li><br><li>Sorting</li><br><li>Searching</li> | <li>🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 🔥 🔥 </li><li> 🔥 🔥 🔥 🚧 </li> | 23-02-2017 | 02-03-2017 |
+| [Week 6](./challenges/Week6) | <li>Tables</li><br><li>Sorting</li><br><li>Searching</li> | <li>🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 🔥 🔥 </li><li> 🔥 🔥 🔥 🔥 </li> | ~~23-02-2017~~ | ~~02-03-2017~~ |
 
 ## PART 2 :coffee: `[-/59]`
 | Material | Topics | Exercises | Started | Deadline |

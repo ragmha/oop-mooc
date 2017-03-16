@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[12/13]`
+## PROGRESS 🚀 `[13/13]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -21,4 +21,4 @@
 | [Exercise 103: Birdwatchers database](./Exercise103/BirdWatch.java) | 🔥 |
 | [Exercise 104: Sorting](./Exercise104/Main.java) | 🔥 |
 | [Exercise 105: Guessing game](./Exercise105/GuessingGame.java) | 🔥 |
-| [Exercise 106: Implementation of binary search](./Exercise106/) | 🚧 |
+| [Exercise 106: Implementation of binary search](./Exercise106/BinarySearch.java) | 🔥 |
