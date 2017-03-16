@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[11/13]`
+## PROGRESS 🚀 `[12/13]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -20,5 +20,5 @@
 | [Exercise 102: Grade distribution](./Exercise102/GradeDistribution.java) | 🔥 |
 | [Exercise 103: Birdwatchers database](./Exercise103/BirdWatch.java) | 🔥 |
 | [Exercise 104: Sorting](./Exercise104/Main.java) | 🔥 |
-| [Exercise 105: Guessing game](./Exercise105/) | 🚧 |
+| [Exercise 105: Guessing game](./Exercise105/GuessingGame.java) | 🔥 |
 | [Exercise 106: Implementation of binary search](./Exercise106/) | 🚧 |
