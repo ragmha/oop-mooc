@@ -6,7 +6,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[105/165]`
+## PROGRESS 🚀 `[107/165]`
 
 ## PART 1 :coffee: `[106/106]`
 | Material  | Topics  | Exercises | Started | Deadline |
@@ -18,10 +18,10 @@
 | [Week 5](./challenges/Week5) | <li>More on objects</li> | <li>🔥 🔥 🔥 🔥 🔥</li><li>🔥 🔥 🔥 🔥 🔥</li> | ~~16-02-2017~~ | ~~23-02-2017~~ |
 | [Week 6](./challenges/Week6) | <li>Tables</li><br><li>Sorting</li><br><li>Searching</li> | <li>🔥 🔥 🔥 🔥 🔥 </li><li>🔥 🔥 🔥 🔥 </li><li> 🔥 🔥 🔥 🔥 </li> | ~~23-02-2017~~ | ~~02-03-2017~~ |
 
-## PART 2 :coffee: `[-/59]`
+## PART 2 :coffee: `[1/59]`
 | Material | Topics | Exercises | Started | Deadline |
 | :------------- | :------------- | :------------- | :-------------|:-------------|
-| Week 7 | <li>HashMap data structure</li> | <li>🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧</li> | 02-03-2017 | 09-03-2017 |
+| [Week 7](./challenges/Week7) | <li>HashMap data structure</li> | <li>🔥 🚧 🚧 🚧 🚧 🚧 🚧 🚧</li> | 02-03-2017 | 09-03-2017 |
 | Week 8 | <li>Interfaces</li> | <li>🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧</li><li>🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧</li> | 09-03-2017 | 16-03-2017 |
 | Week 9 | <li>Exceptions</li><br><li>Reading from file</li> | <li>🚧 🚧 🚧 🚧 🚧</li><li>🚧 🚧 🚧 🚧 🚧 </li> | 16-03-2017 | 23-03-2017 |
 | Week 10 | <li>Inheritance</li> | <li>🚧 🚧 🚧 🚧 🚧 🚧 🚧</li> | 23-03-2017 | 02-04-2017 |
