@@ -6,7 +6,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[107/165]`
+## PROGRESS 🚀 `[108/165]`
 
 ## PART 1 :coffee: `[106/106]`
 | Material  | Topics  | Exercises |
@@ -21,7 +21,7 @@
 ## PART 2 :coffee: `[1/59]`
 | Material | Topics | Exercises |
 | :------------- | :------------- | :------------- |
-| [Week 7](./challenges/Week7) | <li>HashMap data structure</li> | <li>🔥 🚧 🚧 🚧 🚧 🚧 🚧 🚧</li> |
+| [Week 7](./challenges/Week7) | <li>HashMap data structure</li> | <li>🔥 🔥 🚧 🚧 🚧 🚧 🚧 🚧</li> |
 | Week 8 | <li>Interfaces</li> | <li>🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧</li><li>🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧</li> |
 | Week 9 | <li>Exceptions</li><br><li>Reading from file</li> | <li>🚧 🚧 🚧 🚧 🚧</li><li>🚧 🚧 🚧 🚧 🚧 </li> |
 | Week 10 | <li>Inheritance</li> | <li>🚧 🚧 🚧 🚧 🚧 🚧 🚧</li> |
